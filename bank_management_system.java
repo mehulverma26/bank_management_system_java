@@ -1,3 +1,4 @@
+package bank_management_system;
 import java.util.Scanner;
 class Bank {
     private String accno;
